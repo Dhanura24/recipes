@@ -13,3 +13,5 @@
 ## Instructions
 - cut the tomato in super small bits
 - press the avacado
+- finely chop the red onion
+- squeeze the lemon
